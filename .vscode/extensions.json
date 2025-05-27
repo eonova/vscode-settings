@@ -1,0 +1,111 @@
+{
+  "recommendations": [
+    // themes & icons
+    "shaobeichen.gradient-theme",
+    "emmanuelbeziat.vscode-great-icons",
+    "miguelsolorio.fluent-icons",
+
+    // editor style
+    "naumovs.color-highlight",
+    "antfu.file-nesting",
+    "oderwat.indent-rainbow",
+    "shardulm94.trailing-spaces",
+
+    // git & github
+    "mhutchie.git-graph",
+    "github.vscode-github-actions",
+    "donjayamanne.githistory",
+    "github.codespaces",
+    "github.copilot",
+    "github.copilot-chat",
+    "bierner.github-markdown-preview",
+    "github.vscode-pull-request-github",
+    "eamodio.gitlens",
+    "seatonjiang.gitmoji-vscode",
+    "fabiospampinato.vscode-open-in-github",
+    "antfu.open-in-github-button",
+
+    // code intelligence & lint
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "stylelint.vscode-stylelint",
+    "ms-vscode.vscode-typescript-next",
+
+    // code navigation & completion
+    "antfu.goto-alias",
+    "capaj.vscode-exports-autocomplete",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "zignd.html-css-class-completion",
+    "wix.vscode-import-cost",
+
+    // code generation & refactor
+    "imgildev.vscode-auto-barrel",
+    "simonhe.common-intellisense",
+    "simonhe.export-what",
+    "simonhe.fast-create-variable",
+    "simonhe.function-quick-locking",
+    "imgildev.vscode-nextjs-generator",
+    "antfu.as-fs",
+    "antfu.iconify",
+    "antfu.smart-clicks",
+    "antfu.unocss",
+    "antfu.vite",
+    "antfu.slidev",
+    "simonhe.to-tailwindcss",
+    "simonhe.to-ts-type",
+    "simonhe.to-unocss",
+    "simonhe.vscode-css-selector",
+    "simonhe.vscode-emoji",
+    "simonhe.vscode-json-structure",
+    "simonhe.vscode-open-pkg",
+    "simonhe.vscode-tailwind-magic",
+    "simonhe.vscode-uno-magic",
+    "eonova.vscode-eonova-snippets",
+
+    // testing
+    "vitest.explorer",
+    "kingwl.vscode-vitest-runner",
+    "wallabyjs.quokka-vscode",
+
+    // markdown & docs
+    "bierner.markdown-preview-github-styles",
+
+    // browser & preview
+    "techer.open-in-browser",
+    "kisstkondoros.vscode-gutter-preview",
+    "simonsiefke.svg-preview",
+    "ritwickdey.liveserver",
+
+    // productivity
+    "editorconfig.editorconfig",
+    "usernamehw.errorlens",
+    "alefragnani.project-manager",
+    "hoovercj.vscode-power-mode",
+    "chakrounanas.turbo-console-log",
+    "gruntfuggly.todo-tree",
+    "wakatime.vscode-wakatime",
+
+    // i18n
+    "lokalise.i18n-ally",
+    "think2011.react-i18n",
+    "wangguixuan.var-translate-en",
+    "think2011.vue-i18n",
+
+    // dotenv & env
+    "mikestead.dotenv",
+
+    // type challenges & learning
+    "yrm.type-challenges",
+
+    // vue
+    "vue.volar",
+
+    // other
+    "alova.alova-vscode-extension",
+    "adpyke.codesnap",
+    "chrmarti.regex",
+  ]
+}
